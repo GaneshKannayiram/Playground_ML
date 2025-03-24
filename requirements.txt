@@ -4,3 +4,7 @@ pandas
 plotly
 scikit-learn
 scipy
+seaborn
+xgboost
+graphviz
+kagglehub
